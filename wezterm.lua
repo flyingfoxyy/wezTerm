@@ -16,4 +16,3 @@ config.color_scheme = 'AdventureTime'
 
 -- Finally, return the configuration to wezterm:
 return config
-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
